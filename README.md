@@ -6,7 +6,7 @@ Software Developer/ Design Enthusiast
 
 Powered by caffeine and a lover of nature! I enjoy the challenge of finding ways to make complicated tasks simpler and more intuitive. I'm continuously learning new technologies and staying up to date with the latest development trends. When I'm not coding, I'm usually out geocaching. I'm like a treasure hunter, but with a laptop instead of a shovel!
 
-* 🌍  I'm based in Cincinnati , USA
+* 🌍  I'm based in Ohio , USA
 * ✉️  You can contact me at [labiche6789@gmail.com](mailto:labiche6789@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Projects
